@@ -1,0 +1,33 @@
+_repo: Aniwee-or-the-Warrior-Queen-A-tale-of-the-Araucanian-Indians-and-the-mythical-Trauco-people_67965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dixie, Florence, Lady
+    aliases:
+    - Douglas, Florence, Lady
+    - Dixie, Lady Florence
+    - Dixie, Florence Caroline Douglas, Lady
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '41805'
+    url: http://www.gutenberg.org/2009/agents/41805
+description: ''
+gutenberg_issued: '2022-05-01'
+identifiers:
+  gutenberg: '67965'
+language: en
+pgterms:marc904: http://access.bl.uk/item/pdf/lsidyv3ab34830
+pgterms:marc905: 20190302140052dixie
+pgterms:marc906: '1890'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from a file downloaded from the British Library)
+publication_note: United Kingdom :Henry and Co.,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Aniwee: or, the Warrior Queen. A tale of the Araucanian Indians and the mythical
+  Trauco people'
+url: http://www.gutenberg.org/ebooks/67965
