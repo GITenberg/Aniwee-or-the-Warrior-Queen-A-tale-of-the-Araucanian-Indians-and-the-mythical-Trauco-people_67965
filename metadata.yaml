@@ -1,5 +1,8 @@
 _repo: Aniwee-or-the-Warrior-Queen-A-tale-of-the-Araucanian-Indians-and-the-mythical-Trauco-people_67965
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67965-h/images/cover.jpg
 creator:
   author:
     agent_name: Dixie, Florence, Lady
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '41805'
     url: http://www.gutenberg.org/2009/agents/41805
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67965#Aniwee-or-the-Warrior-Queen-A-tale-of-the-Araucanian-Indians-and-the-mythical-Trauco-people
 gutenberg_issued: '2022-05-01'
 identifiers:
   gutenberg: '67965'
